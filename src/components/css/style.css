@@ -1,0 +1,36 @@
+.square{
+    float:left;
+    height: 50px;
+    width: 50px;
+}
+.row{
+    clear: both;
+    display:block;
+}
+.table{
+    text-align: center;
+    position: inherit;
+}
+.actionSteps{
+    float:left;
+}
+.actionSteps li:first-child{
+    float: left;
+}
+.gameComments{
+    font-family: 'Courier New', Courier, monospace;
+}
+.Winner{
+    background-color: #6ec46e;
+}
+.looser{
+    background-color: #c93030;
+}
+.backgndImg{
+    background-image: url('../../tic-tac-toe-backgrounds.jpg');
+    background-color: black;
+    background-position: top;
+    background-size: cover;
+    min-height: 600px;
+    text-align: center;
+}
