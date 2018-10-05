@@ -2,7 +2,7 @@
   "name": "mywebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://praneethashetti.github.io/tictactoe/",
+  "homepage": "https://praneethashetti.github.io/Tictactoe/",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "react": "^16.5.2",
